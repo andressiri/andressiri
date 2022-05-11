@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **andres.siri@hotmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1vQp6FvJqN6jz-pjMXvUvQG8ZL5kCUOL4/view?usp=sharing](https://drive.google.com/file/d/1vQp6FvJqN6jz-pjMXvUvQG8ZL5kCUOL4/view?usp=sharing)
+- 📄 Know about my experiences [in my CV](https://drive.google.com/file/d/1vQp6FvJqN6jz-pjMXvUvQG8ZL5kCUOL4/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
