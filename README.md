@@ -1,12 +1,3 @@
-back to edit
-
-copy-markdown
-
-download markdown
-
-download backup
-
-preview
 <h1 align="center">Hi 👋, I'm Andrés Siri</h1>
 <h3 align="center">A Full Stack Developer from Argentina</h3>
 
