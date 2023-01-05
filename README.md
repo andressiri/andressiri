@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Andrés Siri</h1>
 <h3 align="center">A Full Stack Developer from Argentina</h3>
 
-- 🔭 I’m currently working on [Spends Checker](https://github.com/andressiri/alkemy-full-stack)
+- 🔭 I’m currently working on [StoryDots](https://storydots.app/)
 
 - 🌱 I’m currently learning [at Alkemy's acceleration](https://www.alkemy.org/)
 
