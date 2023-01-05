@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [StoryDots](https://storydots.app/)
 
-- 🌱 I’m currently learning [at Alkemy's acceleration](https://www.alkemy.org/)
+- 🌱 I’m currently learning [Next js](https://nextjs.org/)
 
 - 📫 How to reach me **andres.siri@hotmail.com**
 
