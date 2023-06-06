@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working at [StoryDots](https://storydots.app/)
 
-- 🌱 I’m currently learning [Next js](https://nextjs.org/)
+- 🌱 I’m currently learning [Clean architecture](https://blog.cleancoder.com/uncle-bob/2012/08/13/the-clean-architecture.html)
 
 - 📫 How to reach me **andres.siri@hotmail.com**
 
