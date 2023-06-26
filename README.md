@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Andrés Siri</h1>
 <h3 align="center">A Full Stack Developer from Argentina</h3>
 
-- 🔭 I’m currently working at [StoryDots](https://storydots.app/)
+- 🔭 I’m currently working at [Flexy](https://flexyalquileres.com.ar/)
 
 - 🌱 I’m currently learning [Clean architecture](https://blog.cleancoder.com/uncle-bob/2012/08/13/the-clean-architecture.html)
 
