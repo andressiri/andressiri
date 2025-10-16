@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Andrés Siri</h1>
 <h3 align="center">A Full Stack Developer from Argentina</h3>
 
-- 🔭 I’m currently working at [Tiendamia](https://tiendamia.com/)
+- 🔭 I’m currently working at KISS Design
 
 - 📫 How to reach me **andres.siri@hotmail.com**
 
